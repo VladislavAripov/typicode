@@ -1,9 +1,11 @@
 [
   {
+    "id": 1,
     "name": "Kamil Mustafin",
     "ip": "127.0.0.1"
   },
   {
+    "id": 2,
     "name": "Vladislav Aripov",
     "ip": "12.43.21.32"
   }
