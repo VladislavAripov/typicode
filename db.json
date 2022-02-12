@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Kamil Mustafin",
+    "ip": "127.0.0.1"
+  },
+  {
+    "name": "Vladislav Aripov",
+    "ip": "12.43.21.32"
+  },
+  {
+    "name": "Igor Simonov",
+    "ip": "17.0.0.1"
+  },
+  {
+    "name": "Boris Sleptcov",
+    "ip": "145.21.32.23"
+  },
+  {
+    "name": "Adel Minvaleev",
+    "ip": "134.32.32.12"
+  },
+  {
+    "name": "Pavel Tarankov",
+    "ip": "12.23.32.23"
+  }
+]
